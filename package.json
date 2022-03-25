@@ -1,0 +1,15 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather Application",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "jewel",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.4.0"
+  }
+}
